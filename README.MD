@@ -56,4 +56,5 @@ Power Point + Copilot：
 
 - Conteúdo e imagens geradas via Power Point + Copilot;
 - Imagem de capa gerada via Canva;
-- A expressão Three Way e Paralelo são sinônimas.
+- A expressão Three Way e Paralelo são sinônimas;
+- O Midjourney não contém mais a versão gratuita.
